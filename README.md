@@ -7,9 +7,12 @@ I am a software developer living in Copenhagen. I am enthusiastic and highly mot
 - 🔭 I’m currently working on [my blog](https://cph.kiwi/blog)
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about food - cooking it and eating!
+- ♥️ Favourite European city: Amsterdam 🇳🇱
 - 📫 How to reach me: beth.jack@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: New Zealanders call themselves kiwis after the bird, NOT the fruit.
+
+
 
 <!--
 
